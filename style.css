@@ -23,12 +23,12 @@ div+div>p {
 }
 
 li>p:hover:nth-child(1n) {
-    color: red;
+    color: rgb(55, 0, 255);
     
 }
 
 li>p:hover:nth-child(2n) {
-    color: orange;
+    color: rgb(0, 255, 8);
     
 }
 li>p:hover:nth-child(3n) {
@@ -36,20 +36,20 @@ li>p:hover:nth-child(3n) {
         
 }
 li>p:hover:nth-child(4n) {
-    color: green;
+    color: rgb(128, 0, 0);
             
 }
 li>p:hover:nth-child(5n) {
-    color: aqua;
+    color: rgb(47, 255, 0);
                 
 }
 
 li>p:hover:nth-child(6n) {
-    color: darkblue;
+    color: rgb(111, 139, 0);
                     
 }
 
 li>p:hover:nth-child(7n) {
-    color: purple;
+    color: rgb(55, 0, 128);
                     
 }
